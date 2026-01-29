@@ -27,7 +27,7 @@ jobs:
           github-user: ${{ github.actor }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
           list-file: "README.md"
-          format: practicalli
+          format: table
           with-back-to-top: true
 
       # Commit the changes
