@@ -9,7 +9,7 @@ on:
     - cron: '42 2 * * *'
 
 permissions:
-  actions: write
+  contents: write
 
 jobs:  
   build:
