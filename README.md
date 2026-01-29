@@ -30,13 +30,17 @@ Total starred repositories: `207`
 
 ## C
 
-  - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator \[*ISC License*\] (⭐️7410)
+  - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator \[*ISC License*\] (⭐️7410) 
+
+**[⬆ back to top](#contents)**
 
 ## CSS
 
   - [bodil/bodil.github.com](https://github.com/bodil/bodil.github.com) - Presentation slides etc (⭐️24)
   - [ClojureBridgeLondon/workshop-content-gitbook](https://github.com/ClojureBridgeLondon/workshop-content-gitbook) - Content for the Gitbook version of ClojureBridge London curriculum (⭐️4)
-  - [jarohen/clojurex2013](https://github.com/jarohen/clojurex2013) - My slides and references from 'Putting the Blocks Together' at ClojureX 2013 (⭐️3)
+  - [jarohen/clojurex2013](https://github.com/jarohen/clojurex2013) - My slides and references from 'Putting the Blocks Together' at ClojureX 2013 (⭐️3) 
+
+**[⬆ back to top](#contents)**
 
 ## Clojure
 
@@ -129,11 +133,15 @@ Total starred repositories: `207`
   - [vlaaad/reveal](https://github.com/vlaaad/reveal) - Read Eval Visualize Loop for Clojure \[*MIT License*\] (⭐️628)
   - [weavejester/compojure](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure \[*Eclipse Public License 1.0*\] (⭐️4111)
   - [weavejester/hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure \[*Eclipse Public License 1.0*\] (⭐️2899)
-  - [yogthos/http-kit-ws-benchmark](https://github.com/yogthos/http-kit-ws-benchmark) - HTTP Kit WebSocket benchmark (⭐️1)
+  - [yogthos/http-kit-ws-benchmark](https://github.com/yogthos/http-kit-ws-benchmark) - HTTP Kit WebSocket benchmark (⭐️1) 
+
+**[⬆ back to top](#contents)**
 
 ## Dockerfile
 
-  - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally. \[*GNU AGPLv3*\] (⭐️2389)
+  - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally. \[*GNU AGPLv3*\] (⭐️2389) 
+
+**[⬆ back to top](#contents)**
 
 ## Emacs Lisp
 
@@ -144,24 +152,32 @@ Total starred repositories: `207`
   - [overtone/live-coding-emacs](https://github.com/overtone/live-coding-emacs) - Check out Emacs Live instead - http://github.com/overtone/emacs-live (⭐️141)
   - [practicalli/spacemacs-config](https://github.com/practicalli/spacemacs-config) - rich Clojure & LSP config for Spacemacs \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️133)
   - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim! \[*GNU GPLv3*\] (⭐️24865)
-  - [yjwen/org-reveal](https://github.com/yjwen/org-reveal) - Exports Org-mode contents to Reveal.js HTML presentation. (⭐️1452)
+  - [yjwen/org-reveal](https://github.com/yjwen/org-reveal) - Exports Org-mode contents to Reveal.js HTML presentation. (⭐️1452) 
+
+**[⬆ back to top](#contents)**
 
 ## Fennel
 
-  - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!) \[*The Unlicense*\] (⭐️2048)
+  - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!) \[*The Unlicense*\] (⭐️2048) 
+
+**[⬆ back to top](#contents)**
 
 ## HTML
 
   - [ClojureBridgeLondon/workshop](https://github.com/ClojureBridgeLondon/workshop) - Deployed version of ClojureBridge London workshop content - for contributions and source code, see https://github.com/ClojureBridgeLondon/workshop-content-gitbook (⭐️1)
   - [practicalli/doom-emacs](https://github.com/practicalli/doom-emacs) - Guide to Clojure REPL Driven Development with Emacs Doom \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️16)
-  - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs. \[*GNU GPLv3*\] (⭐️3136)
+  - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs. \[*GNU GPLv3*\] (⭐️3136) 
+
+**[⬆ back to top](#contents)**
 
 ## Java
 
   - [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface. (⭐️3266)
   - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language (⭐️10815)
   - [cucumber/cucumber-jvm](https://github.com/cucumber/cucumber-jvm) - Cucumber for the JVM \[*MIT License*\] (⭐️2790)
-  - [sopra-steria-norge/extreme_startup_servers](https://github.com/sopra-steria-norge/extreme_startup_servers) - Extreme Startup skeleton server implementations in various frameworks and languages. \[*BSD 2-Clause "Simplified" License*\] (⭐️64) *Archived!*
+  - [sopra-steria-norge/extreme_startup_servers](https://github.com/sopra-steria-norge/extreme_startup_servers) - Extreme Startup skeleton server implementations in various frameworks and languages. \[*BSD 2-Clause "Simplified" License*\] (⭐️64) *Archived!* 
+
+**[⬆ back to top](#contents)**
 
 ## JavaScript
 
@@ -178,11 +194,15 @@ Total starred repositories: `207`
   - [practicalli-johnny/ldncljweb](https://github.com/practicalli-johnny/ldncljweb) -  (⭐️1)
   - [square/cube](https://github.com/square/cube) - Cube: A system for time series visualization. (⭐️3886) *Archived!*
   - [weeger/wjs](https://github.com/weeger/wjs) - Packages loader \[*MIT License*\] (⭐️44)
-  - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only. \[*MIT License*\] (⭐️20817)
+  - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only. \[*MIT License*\] (⭐️20817) 
+
+**[⬆ back to top](#contents)**
 
 ## Jupyter Notebook
 
-  - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All! \[*MIT License*\] (⭐️33668)
+  - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All! \[*MIT License*\] (⭐️33668) 
+
+**[⬆ back to top](#contents)**
 
 ## Lua
 
@@ -192,26 +212,34 @@ Total starred repositories: `207`
   - [nvzone/showkeys](https://github.com/nvzone/showkeys) - Minimal Eye-candy keys screencaster for Neovim  200 ~ LOC \[*GNU GPLv3*\] (⭐️349)
   - [practicalli-archive/astro4](https://github.com/practicalli-archive/astro4) - Rich development workflow with Clojure support, using AstroNvim 4 and selected plugins (⭐️12) *Archived!*
   - [practicalli-johnny/astronvim-3-config](https://github.com/practicalli-johnny/astronvim-3-config) - AstroNvim version 3 only - Practicalli AstroNvim user configuration with AstroNvim Community Packages, written in Lua \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️9) *Archived!*
-  - [practicalli/nvim-astro5](https://github.com/practicalli/nvim-astro5) - Neovim 0.11 config for Clojure development, based on AstroNvim v5 (⭐️8)
+  - [practicalli/nvim-astro5](https://github.com/practicalli/nvim-astro5) - Neovim 0.11 config for Clojure development, based on AstroNvim v5 (⭐️8) 
+
+**[⬆ back to top](#contents)**
 
 ## Makefile
 
   - [practicalli/clojure](https://github.com/practicalli/clojure) - Practicalli Clojure REPL Driven Development \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️115)
   - [practicalli/clojure-ai-tools](https://github.com/practicalli/clojure-ai-tools) - A micro-guide to using AI tools to support a Clojure Workflow \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️1)
   - [practicalli/journal](https://github.com/practicalli/journal) - A journal of thoughts and experiences (and a way to avoid browser tab overload) \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️2)
-  - [practicalli/learn-clojure](https://github.com/practicalli/learn-clojure) - Learn the Clojure programming language - syntax, common core functions, common libraries and challenges to practice \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️6)
+  - [practicalli/learn-clojure](https://github.com/practicalli/learn-clojure) - Learn the Clojure programming language - syntax, common core functions, common libraries and challenges to practice \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️6) 
+
+**[⬆ back to top](#contents)**
 
 ## Markdown
 
   - [practicalli-archive/clojurescript](https://github.com/practicalli-archive/clojurescript) - Practical guide to ClojureScript  \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️21) *Archived!*
-  - [practicalli/spacemacs](https://github.com/practicalli/spacemacs) - Content for the book - Clojure Development with Spacemacs \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️121)
+  - [practicalli/spacemacs](https://github.com/practicalli/spacemacs) - Content for the book - Clojure Development with Spacemacs \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️121) 
+
+**[⬆ back to top](#contents)**
 
 ## Python
 
   - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! \[*MIT License*\] (⭐️16125) *Archived!*
   - [ghoseb/planet.clojure](https://github.com/ghoseb/planet.clojure) - Source code for Planet Clojure (⭐️125)
   - [OpenEndedGroup/Field](https://github.com/OpenEndedGroup/Field) - A development environment for art (⭐️202)
-  - [xdevplatform/getting-started-with-the-twitter-api-v2-for-academic-research](https://github.com/xdevplatform/getting-started-with-the-twitter-api-v2-for-academic-research) - A course on getting started with the Twitter API v2 for academic research \[*Apache License 2.0*\] (⭐️617)
+  - [xdevplatform/getting-started-with-the-twitter-api-v2-for-academic-research](https://github.com/xdevplatform/getting-started-with-the-twitter-api-v2-for-academic-research) - A course on getting started with the Twitter API v2 for academic research \[*Apache License 2.0*\] (⭐️617) 
+
+**[⬆ back to top](#contents)**
 
 ## Ruby
 
@@ -219,29 +247,39 @@ Total starred repositories: `207`
   - [heroku/rails_12factor](https://github.com/heroku/rails_12factor) -  \[*MIT License*\] (⭐️842) *Archived!*
   - [rchatley/extreme_startup](https://github.com/rchatley/extreme_startup) -  (⭐️275)
   - [RiverGlide/CukeSalad](https://github.com/RiverGlide/CukeSalad) - Cucumber specs / tests without step-definitions \[*MIT License*\] (⭐️44)
-  - [walle/gimli](https://github.com/walle/gimli) - Utility for converting markup files to pdf files \[*MIT License*\] (⭐️537)
+  - [walle/gimli](https://github.com/walle/gimli) - Utility for converting markup files to pdf files \[*MIT License*\] (⭐️537) 
+
+**[⬆ back to top](#contents)**
 
 ## SCSS
 
-  - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. (⭐️29406)
+  - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. (⭐️29406) 
+
+**[⬆ back to top](#contents)**
 
 ## Shell
 
   - [mietek/haskell-on-heroku](https://github.com/mietek/haskell-on-heroku) - Buildpack for deploying Haskell apps \[*Modified BSD License*\] (⭐️131) *Archived!*
   - [neomatrix369/awesome-graal](https://github.com/neomatrix369/awesome-graal) - A curated list of awesome resources for Graal, GraalVM, Truffle and related topics (⭐️368)
-  - [practicalli/dotfiles](https://github.com/practicalli/dotfiles) - Configuration files for common development tools and applications \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️5)
+  - [practicalli/dotfiles](https://github.com/practicalli/dotfiles) - Configuration files for common development tools and applications \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️5) 
+
+**[⬆ back to top](#contents)**
 
 ## TeX
 
-  - [wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet) - A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability. (⭐️3138)
+  - [wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet) - A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability. (⭐️3138) 
+
+**[⬆ back to top](#contents)**
 
 ## TypeScript
 
   - [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools for AWS is a developer toolkit to implement Serverless best practices and increase developer velocity. \[*MIT No Attribution*\] (⭐️1764)
   - [DeLaGuardo/setup-clojure](https://github.com/DeLaGuardo/setup-clojure) - GitHub Action to provision clojure's most popular build tools for Linux, Mac OS X and Windows. \[*MIT License*\] (⭐️218)
-  - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. \[*Modified BSD License*\] (⭐️436475)
+  - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. \[*Modified BSD License*\] (⭐️436476)
   - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎 \[*MIT License*\] (⭐️17982)
-  - [JamieMason/ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process \[*MIT License*\] (⭐️3517)
+  - [JamieMason/ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process \[*MIT License*\] (⭐️3517) 
+
+**[⬆ back to top](#contents)**
 
 ## Unknown
 
@@ -292,9 +330,13 @@ Total starred repositories: `207`
   - [practicalli/graphic-design](https://github.com/practicalli/graphic-design) - Images, banners, logos for Practicalli books and communication channels \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️1)
   - [technomancy/emacs-starter-kit](https://github.com/technomancy/emacs-starter-kit) - [ARCHIVED] this is ancient history \[*GNU GPLv3*\] (⭐️2860) *Archived!*
   - [vikki/if-you-like-it-then-you-should-have-put-a-test-on-it](https://github.com/vikki/if-you-like-it-then-you-should-have-put-a-test-on-it) - A comparison of front-end functional testing frameworks (⭐️9)
-  - [xyclos/How-to-Start-a-Startup-Lecture-Audio](https://github.com/xyclos/How-to-Start-a-Startup-Lecture-Audio) -  (⭐️3)
+  - [xyclos/How-to-Start-a-Startup-Lecture-Audio](https://github.com/xyclos/How-to-Start-a-Startup-Lecture-Audio) -  (⭐️3) 
+
+**[⬆ back to top](#contents)**
 
 ## edn
 
-  - [practicalli/clojure-cli-config](https://github.com/practicalli/clojure-cli-config) - User aliases and Clojure CLI configuration for deps.edn based projects \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️552)
+  - [practicalli/clojure-cli-config](https://github.com/practicalli/clojure-cli-config) - User aliases and Clojure CLI configuration for deps.edn based projects \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️552) 
+
+**[⬆ back to top](#contents)**
 
