@@ -24,7 +24,10 @@ jobs:
         id: stargazer
         uses: rverst/stargazer@v1.2.6
         with:
-          github-user: ${{ github.actor }}
+          # When run manually, github.actor variable will be the current user
+          # When run from cron, github.actor variable is `github-actions`
+          # github-user: ${{ github.actor }}
+          github-user: ${{ github.repository_owner }}   # Extract current repo owner name
           github-token: ${{ secrets.GITHUB_TOKEN }}
           list-file: "README.md"
           format: table
