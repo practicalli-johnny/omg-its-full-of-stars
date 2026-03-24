@@ -34,16 +34,19 @@ jobs:
           with-back-to-top: true
 
       # Commit the changes
-      - name: Commit files
-        run: |
-          git config --local user.email "actions@noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add .
-          git commit -m "Update list of starred repositories on GitHub"
+      # - name: Commit files
+      #   run: |
+      #     git config --local user.email "actions@noreply.github.com"
+      #     git config --local user.name "github-actions[bot]"
+      #     git add .
+      #     git commit -m "Update list of starred repositories on GitHub"
 
       # Push the changes
-      - name: Push
-        uses: ad-m/github-push-action@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+      # - name: Push
+      #   uses: ad-m/github-push-action@v1
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     branch: ${{ github.ref }}
+
+      # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v7
