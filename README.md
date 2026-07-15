@@ -31,7 +31,7 @@ Total starred repositories: `221`
 ## C
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [jart/blink](https://github.com/jart/blink) | tiniest x86-64-linux emulator   | ISC License | ⭐️7552 | 
+| [jart/blink](https://github.com/jart/blink) | tiniest x86-64-linux emulator   | ISC License | ⭐️7554 | 
 
 **[⬆ back to top](#contents)**
 ## CSS
@@ -47,7 +47,7 @@ Total starred repositories: `221`
 | ----- | ----- | :---: |----: |
 | [4clojure/4clojure](https://github.com/4clojure/4clojure) | An interactive problem website for learning Clojure (*archived*)  | Eclipse Public License 1.0 | ⭐️1067 |
 | [applied-science/cljs-firebase-functions](https://github.com/applied-science/cljs-firebase-functions) |    | - | ⭐️18 |
-| [avanelsas/baredom](https://github.com/avanelsas/baredom) | BareDOM: Lightweight CLJS UI components built on web standards (Custom Elements, Shadow DOM, ES modules). No framework, just the DOM   | MIT License | ⭐️38 |
+| [avanelsas/baredom](https://github.com/avanelsas/baredom) | BareDOM: Lightweight CLJS UI components built on web standards (Custom Elements, Shadow DOM, ES modules). No framework, just the DOM   | MIT License | ⭐️39 |
 | [bhauman/crashverse](https://github.com/bhauman/crashverse) |    | - | ⭐️41 |
 | [bhauman/devcards](https://github.com/bhauman/devcards) | Devcards aims to provide a visual REPL experience for ClojureScript   | - | ⭐️1536 |
 | [bhauman/figwheel-main](https://github.com/bhauman/figwheel-main) | Figwheel Main provides tooling for developing ClojureScript applications   | Eclipse Public License 1.0 | ⭐️651 |
@@ -58,8 +58,8 @@ Total starred repositories: `221`
 | [clojupyter/clojupyter](https://github.com/clojupyter/clojupyter) | a Jupyter kernel for Clojure   | MIT License | ⭐️866 |
 | [clojure-emacs/orchard](https://github.com/clojure-emacs/orchard) | A fertile ground for Clojure tooling   | Eclipse Public License 1.0 | ⭐️340 |
 | [clojure-expectations/lein-expectations](https://github.com/clojure-expectations/lein-expectations) | Leiningen plugin for running tests written using the expectations library   | - | ⭐️28 |
-| [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp) | Clojure & ClojureScript Language Server (LSP) implementation   | MIT License | ⭐️1315 |
-| [clojurebook/ClojureProgramming](https://github.com/clojurebook/ClojureProgramming) | Example projects and sample code featured in Clojure Programming (1st ed.) from O'Reilly   | - | ⭐️401 |
+| [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp) | Clojure & ClojureScript Language Server (LSP) implementation   | MIT License | ⭐️1316 |
+| [clojurebook/ClojureProgramming](https://github.com/clojurebook/ClojureProgramming) | Example projects and sample code featured in Clojure Programming (1st ed.) from O'Reilly   | - | ⭐️400 |
 | [dalethatcher/ldncljweb](https://github.com/dalethatcher/ldncljweb) |    | - | ⭐️13 |
 | [emezeske/lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) | Leiningen plugin to make ClojureScript development easy.   | - | ⭐️1093 |
 | [ertugrulcetin/racing-game-cljs](https://github.com/ertugrulcetin/racing-game-cljs) | A 3D racing game built with ClojureScript, React and ThreeJS   | - | ⭐️259 |
@@ -107,7 +107,7 @@ Total starred repositories: `221`
 | [overtone/overtone](https://github.com/overtone/overtone) | Collaborative Programmable Music    | - | ⭐️6200 |
 | [oxalorg/4ever-clojure](https://github.com/oxalorg/4ever-clojure) | Pure cljs version of 4clojure, meant to run forever!   | - | ⭐️268 |
 | [pallet/pallet](https://github.com/pallet/pallet) | Automates controlling and provisioning cloud server instances. DevOps for the JVM.   | - | ⭐️806 |
-| [penpot/penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration.   | Mozilla Public License 2.0 | ⭐️55801 |
+| [penpot/penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration.   | Mozilla Public License 2.0 | ⭐️56259 |
 | [philandstuff/december-dojo](https://github.com/philandstuff/december-dojo) | Hard 4clojure problems   | - | ⭐️2 |
 | [plexus/chestnut](https://github.com/plexus/chestnut) | Application template for Clojure + ClojureScript web apps (*archived*)  | Eclipse Public License 1.0 | ⭐️1304 |
 | [practicalli-johnny/battleships](https://github.com/practicalli-johnny/battleships) | A battleships tournament server.   | - | ⭐️1 |
@@ -130,7 +130,7 @@ Total starred repositories: `221`
 | [ring-clojure/ring-json](https://github.com/ring-clojure/ring-json) | Ring middleware for handling JSON   | - | ⭐️319 |
 | [ring-clojure/ring-ssl](https://github.com/ring-clojure/ring-ssl) | Ring middleware for managing HTTPS requests   | MIT License | ⭐️46 |
 | [rosejn/flocking](https://github.com/rosejn/flocking) | clojure boids with quill   | - | ⭐️14 |
-| [seancorfield/clj-new](https://github.com/seancorfield/clj-new) | Generate new projects based on clj, Boot, or Leiningen Templates!   | Eclipse Public License 1.0 | ⭐️513 |
+| [seancorfield/clj-new](https://github.com/seancorfield/clj-new) | Generate new projects based on clj, Boot, or Leiningen Templates!   | Eclipse Public License 1.0 | ⭐️514 |
 | [seancorfield/depstar](https://github.com/seancorfield/depstar) | Builds JARs, uberjars, does AOT, manifest generation, etc for deps.edn projects (*archived*)  | - | ⭐️239 |
 | [seancorfield/usermanager-example](https://github.com/seancorfield/usermanager-example) | A little demo web app in Clojure, using Component, Ring, Compojure, Selmer (and a database)   | - | ⭐️369 |
 | [tatut/re-svg-icons](https://github.com/tatut/re-svg-icons) | Reagent SVG icons   | MIT License | ⭐️28 |
@@ -144,7 +144,7 @@ Total starred repositories: `221`
 ## Dockerfile
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) | 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.   | GNU AGPLv3 | ⭐️2532 | 
+| [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) | 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.   | GNU AGPLv3 | ⭐️2533 | 
 
 **[⬆ back to top](#contents)**
 ## Emacs Lisp
@@ -156,14 +156,14 @@ Total starred repositories: `221`
 | [overtone/emacs-live](https://github.com/overtone/emacs-live) | M-x start-hacking   | - | ⭐️1544 |
 | [overtone/live-coding-emacs](https://github.com/overtone/live-coding-emacs) | Check out Emacs Live instead - http://github.com/overtone/emacs-live   | - | ⭐️142 |
 | [practicalli/spacemacs-config](https://github.com/practicalli/spacemacs-config) | rich Clojure & LSP config for Spacemacs   | Creative Commons Attribution Share Alike 4.0 International | ⭐️134 |
-| [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) | A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!   | GNU GPLv3 | ⭐️24565 |
+| [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) | A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!   | GNU GPLv3 | ⭐️24566 |
 | [yjwen/org-reveal](https://github.com/yjwen/org-reveal) | Exports Org-mode contents to Reveal.js HTML presentation.   | - | ⭐️1463 | 
 
 **[⬆ back to top](#contents)**
 ## Fennel
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [Olical/conjure](https://github.com/Olical/conjure) | Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!)   | The Unlicense | ⭐️2122 | 
+| [Olical/conjure](https://github.com/Olical/conjure) | Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!)   | The Unlicense | ⭐️2121 | 
 
 **[⬆ back to top](#contents)**
 ## HTML
@@ -180,7 +180,7 @@ Total starred repositories: `221`
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
 | [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) | Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface.   | - | ⭐️3298 |
-| [clojure/clojure](https://github.com/clojure/clojure) | The Clojure programming language   | - | ⭐️11076 |
+| [clojure/clojure](https://github.com/clojure/clojure) | The Clojure programming language   | - | ⭐️11078 |
 | [cucumber/cucumber-jvm](https://github.com/cucumber/cucumber-jvm) | Cucumber for the JVM   | MIT License | ⭐️2827 |
 | [sopra-steria-norge/extreme_startup_servers](https://github.com/sopra-steria-norge/extreme_startup_servers) | Extreme Startup skeleton server implementations in various frameworks and languages. (*archived*)  | BSD 2-Clause "Simplified" License | ⭐️64 | 
 
@@ -194,8 +194,8 @@ Total starred repositories: `221`
 | [bodil/sudokulol](https://github.com/bodil/sudokulol) | An instructional Sudoku problem generator and solver, using Noir.   | - | ⭐️3 |
 | [colin-dumitru/F.js](https://github.com/colin-dumitru/F.js) | Dead simple library for functional and reactive programming in JavaScript   | MIT License | ⭐️40 |
 | [forcedotcom/aura](https://github.com/forcedotcom/aura) | This project is archived, please see the readme for additional resources. (*archived*)  | Apache License 2.0 | ⭐️677 |
-| [gulpjs/gulp](https://github.com/gulpjs/gulp) | A toolkit to automate & enhance your workflow   | MIT License | ⭐️32958 |
-| [hakimel/reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework   | MIT License | ⭐️71926 |
+| [gulpjs/gulp](https://github.com/gulpjs/gulp) | A toolkit to automate & enhance your workflow   | MIT License | ⭐️32957 |
+| [hakimel/reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework   | MIT License | ⭐️71933 |
 | [moski/gist-Blogger](https://github.com/moski/gist-Blogger) | Adding Gist support to blogger dynamic view   | - | ⭐️82 |
 | [mozilla/r2d2b2g](https://github.com/mozilla/r2d2b2g) | Firefox OS Simulator is a test environment for Firefox OS. Use it to test your apps in a Firefox OS-like environment that looks and feels like a mobile phone. (*archived*)  | - | ⭐️395 |
 | [practicalli-johnny/ldncljweb](https://github.com/practicalli-johnny/ldncljweb) |    | - | ⭐️1 |
@@ -207,14 +207,14 @@ Total starred repositories: `221`
 ## Jupyter Notebook
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All!   | MIT License | ⭐️36208 | 
+| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All!   | MIT License | ⭐️36222 | 
 
 **[⬆ back to top](#contents)**
 ## Lua
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [editor-code-assistant/eca-nvim](https://github.com/editor-code-assistant/eca-nvim) | Editor Code Assistant (ECA) integration for NVIM   | Apache License 2.0 | ⭐️66 |
-| [folke/snacks.nvim](https://github.com/folke/snacks.nvim) | 🍿 A collection of QoL plugins for Neovim   | Apache License 2.0 | ⭐️7851 |
+| [editor-code-assistant/eca-nvim](https://github.com/editor-code-assistant/eca-nvim) | Editor Code Assistant (ECA) integration for NVIM   | Apache License 2.0 | ⭐️65 |
+| [folke/snacks.nvim](https://github.com/folke/snacks.nvim) | 🍿 A collection of QoL plugins for Neovim   | Apache License 2.0 | ⭐️7855 |
 | [gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) | Populate the quickfix with json entries   | MIT License | ⭐️338 |
 | [nvzone/showkeys](https://github.com/nvzone/showkeys) | Minimal Eye-candy keys screencaster for Neovim  200 ~ LOC   | GNU GPLv3 | ⭐️364 |
 | [practicalli-archive/astro4](https://github.com/practicalli-archive/astro4) | Rich development workflow with Clojure support, using AstroNvim 4 and selected plugins (*archived*)  | - | ⭐️12 |
@@ -225,7 +225,7 @@ Total starred repositories: `221`
 ## Makefile
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [practicalli/clojure](https://github.com/practicalli/clojure) | Practicalli Clojure REPL Driven Development   | Creative Commons Attribution Share Alike 4.0 International | ⭐️116 |
+| [practicalli/clojure](https://github.com/practicalli/clojure) | Practicalli Clojure REPL Driven Development   | Creative Commons Attribution Share Alike 4.0 International | ⭐️117 |
 | [practicalli/clojure-ai-tools](https://github.com/practicalli/clojure-ai-tools) | A micro-guide to using AI tools to support a Clojure Workflow   | Creative Commons Attribution Share Alike 4.0 International | ⭐️1 |
 | [practicalli/clojure-data-science](https://github.com/practicalli/clojure-data-science) | Techniques and tools for data science with Clojure   | Creative Commons Attribution Share Alike 4.0 International | ⭐️5 |
 | [practicalli/cycling](https://github.com/practicalli/cycling) | Practical guide to cycing, route planning, training and essential maintenance   | - | ⭐️2 |
@@ -246,9 +246,9 @@ Total starred repositories: `221`
 ## Python
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [avgupta456/github-trends](https://github.com/avgupta456/github-trends) | 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (*archived*)  | MIT License | ⭐️16003 |
+| [avgupta456/github-trends](https://github.com/avgupta456/github-trends) | 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (*archived*)  | MIT License | ⭐️16002 |
 | [ghoseb/planet.clojure](https://github.com/ghoseb/planet.clojure) | Source code for Planet Clojure   | - | ⭐️126 |
-| [httpie/cli](https://github.com/httpie/cli) | 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.   | Modified BSD License | ⭐️38306 |
+| [httpie/cli](https://github.com/httpie/cli) | 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.   | Modified BSD License | ⭐️38308 |
 | [OpenEndedGroup/Field](https://github.com/OpenEndedGroup/Field) | A development environment for art   | - | ⭐️202 |
 | [xdevplatform/getting-started-with-the-twitter-api-v2-for-academic-research](https://github.com/xdevplatform/getting-started-with-the-twitter-api-v2-for-academic-research) | A course on getting started with the Twitter API v2 for academic research   | Apache License 2.0 | ⭐️618 | 
 
@@ -275,7 +275,7 @@ Total starred repositories: `221`
 | [mietek/haskell-on-heroku](https://github.com/mietek/haskell-on-heroku) | Buildpack for deploying Haskell apps (*archived*)  | Modified BSD License | ⭐️130 |
 | [neomatrix369/awesome-graal](https://github.com/neomatrix369/awesome-graal) | A curated list of awesome resources for Graal, GraalVM, Truffle and related topics   | - | ⭐️369 |
 | [practicalli/dotfiles](https://github.com/practicalli/dotfiles) | Configuration files for common development tools and applications   | Creative Commons Attribution Share Alike 4.0 International | ⭐️6 |
-| [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) | Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.   | MIT License | ⭐️2560 | 
+| [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) | Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.   | MIT License | ⭐️2561 | 
 
 **[⬆ back to top](#contents)**
 ## TeX
@@ -287,10 +287,10 @@ Total starred repositories: `221`
 ## TypeScript
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) | Powertools for AWS is a developer toolkit to implement Serverless best practices and increase developer velocity.   | MIT No Attribution | ⭐️1784 |
+| [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) | Powertools for AWS is a developer toolkit to implement Serverless best practices and increase developer velocity.   | MIT No Attribution | ⭐️1785 |
 | [DeLaGuardo/setup-clojure](https://github.com/DeLaGuardo/setup-clojure) | GitHub Action to provision clojure's most popular build tools for Linux, Mac OS X and Windows.   | MIT License | ⭐️222 |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.   | Modified BSD License | ⭐️451746 |
-| [ionic-team/ionicons](https://github.com/ionic-team/ionicons) | Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎   | MIT License | ⭐️18108 |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.   | Modified BSD License | ⭐️451904 |
+| [ionic-team/ionicons](https://github.com/ionic-team/ionicons) | Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎   | MIT License | ⭐️18110 |
 | [JamieMason/ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) | Make optimisation of images part of your automated build process   | MIT License | ⭐️3521 | 
 
 **[⬆ back to top](#contents)**
@@ -298,12 +298,12 @@ Total starred repositories: `221`
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
 | [adoptium/adoptium](https://github.com/adoptium/adoptium) |    | - | ⭐️182 |
-| [alex/what-happens-when](https://github.com/alex/what-happens-when) | An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"   | - | ⭐️43220 |
+| [alex/what-happens-when](https://github.com/alex/what-happens-when) | An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"   | - | ⭐️43223 |
 | [ch11ng/exwm](https://github.com/ch11ng/exwm) | Emacs X Window Manager   | - | ⭐️2823 |
 | [ClojureBridgeLondon/organise-clojurebridge-london](https://github.com/ClojureBridgeLondon/organise-clojurebridge-london) | Overview of how to run a ClojureBridge London event   | - | ⭐️1 |
-| [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) | A community driven list of useful Emacs packages, libraries and other items.   | The Unlicense | ⭐️9325 |
-| [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) | I am trying to describe complex matters in simple doodles!   | Creative Commons Attribution Share Alike 4.0 International | ⭐️11398 |
-| [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) | Jargon from the functional programming world in simple terms!   | MIT License | ⭐️18641 |
+| [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) | A community driven list of useful Emacs packages, libraries and other items.   | The Unlicense | ⭐️9323 |
+| [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) | I am trying to describe complex matters in simple doodles!   | Creative Commons Attribution Share Alike 4.0 International | ⭐️11399 |
+| [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) | Jargon from the functional programming world in simple terms!   | MIT License | ⭐️18643 |
 | [kevinohara80/apex-bug](https://github.com/kevinohara80/apex-bug) | Community-driven Apex issue submission   | - | ⭐️2 |
 | [ldnclj/clork](https://github.com/ldnclj/clork) | clork text adventure code from the London Clojure Dojo   | - | ⭐️2 |
 | [ldnclj/dojo-ants](https://github.com/ldnclj/dojo-ants) | Code from the March 2011 London Clojure Dojo   | - | ⭐️4 |
